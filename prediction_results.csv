@@ -1,0 +1,21 @@
+timestamp,image_path,true_label,predicted_label,confidence,correct
+2025-12-17 15:45:25,dataset/genuine\genuine_0000.png,genuine,forged,0.5474,False
+2025-12-17 15:45:26,dataset/genuine\genuine_0001.png,genuine,genuine,0.9957,True
+2025-12-17 15:45:26,dataset/genuine\genuine_0002.png,genuine,forged,0.6064,False
+2025-12-17 15:45:26,dataset/genuine\genuine_0003.png,genuine,forged,0.5474,False
+2025-12-17 15:45:26,dataset/genuine\genuine_0004.png,genuine,genuine,0.8101,True
+2025-12-17 15:45:26,dataset/genuine\genuine_0005.png,genuine,forged,0.8315,False
+2025-12-17 15:45:26,dataset/genuine\genuine_0006.png,genuine,forged,0.5474,False
+2025-12-17 15:45:26,dataset/genuine\genuine_0007.png,genuine,genuine,0.5933,True
+2025-12-17 15:45:26,dataset/genuine\genuine_0008.png,genuine,forged,0.709,False
+2025-12-17 15:45:26,dataset/genuine\genuine_0009.png,genuine,forged,0.5474,False
+2025-12-17 15:45:26,dataset/forged\forged_0000.png,forged,forged,0.5474,True
+2025-12-17 15:45:26,dataset/forged\forged_0001.png,forged,forged,0.8648,True
+2025-12-17 15:45:27,dataset/forged\forged_0002.png,forged,forged,0.5474,True
+2025-12-17 15:45:27,dataset/forged\forged_0003.png,forged,forged,0.6776,True
+2025-12-17 15:45:27,dataset/forged\forged_0004.png,forged,forged,0.8868,True
+2025-12-17 15:45:27,dataset/forged\forged_0005.png,forged,genuine,0.5381,False
+2025-12-17 15:45:27,dataset/forged\forged_0006.png,forged,forged,0.5474,True
+2025-12-17 15:45:27,dataset/forged\forged_0007.png,forged,genuine,0.5098,False
+2025-12-17 15:45:27,dataset/forged\forged_0008.png,forged,forged,0.9042,True
+2025-12-17 15:45:27,dataset/forged\forged_0009.png,forged,forged,0.5474,True
